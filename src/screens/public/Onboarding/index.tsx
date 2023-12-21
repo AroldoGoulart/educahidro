@@ -55,6 +55,8 @@ function OnboardingScreen() {
       <View
         style={{
           paddingHorizontal: SIZES.padding.horizontalScreen,
+          paddingBottom: 20
+
         }}
       >
         <Button

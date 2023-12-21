@@ -129,6 +129,7 @@ function InitPageScreen(props: InitPageScreenProps) {
       <View
         style={{
           paddingHorizontal: SIZES.padding.horizontalScreen,
+          marginBottom: 20,
         }}
       >
         <Button

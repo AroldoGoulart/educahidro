@@ -20,7 +20,7 @@ export const QuestionsOriginal = [
   {
     id: 1,
     question:
-      'A média de consumo diário que a ONU recomenda é de 110 litros por habitante/dia, pois estudos apontam que essa quantidade é suficiente para suprir as necessidades básicas de uma pessoa. Em uma casa com 04 moradores, a quantidade de água consumida no dia foi de 660 litros. Tendo o valor de 110 litros por habitante/dia como recomendado, a média gasta por morador nesta casa foi:',
+      'A média de consumo diário que a ONU recomenda é de 110 litros por habitante/dia, pois estudos apontam que essa quantidade é suficiente para suprir as necessidades básicas de uma pessoa\nEm uma casa com 04 moradores, a quantidade de água consumida no dia foi de 660 litros\nTendo o valor de 110 litros por habitante/dia como recomendado, a média gasta por morador nesta casa foi:',
     options: [
       {
         text: '165 litros por habitante/dia, 220 litros acima do recomendado.',
@@ -45,7 +45,7 @@ export const QuestionsOriginal = [
   {
     id: 2,
     question:
-      'De acordo com a SABESP um banho de ducha por 15 minutos, com o registro meio aberto, consome 135 litros de água. Porém, cinco minutos com o registro meio aberto são suficientes para higienizar o corpo, pois ao se ensaboar você pode fechar o registro. Se você fechar o registro ao se ensaboar, e reduzir o tempo do banho para 5 minutos, e considerando que a quantidade de 1 litro de água é a mesma de uma garrafinha de refrigerante, quantas litros de água você irá economizar?',
+      'De acordo com a SABESP um banho de ducha por 15 minutos, com o registro meio aberto, consome 135 litros de água\nPorém, cinco minutos com o registro meio aberto são suficientes para higienizar o corpo, pois ao se ensaboar você pode fechar o registro\nSe você fechar o registro ao se ensaboar, e reduzir o tempo do banho para 5 minutos, e considerando que a quantidade de 1 litro de água é a mesma de uma garrafinha de refrigerante, quantas litros de água você irá economizar?',
     options: [
       {
         text: '45 litros',
@@ -65,12 +65,12 @@ export const QuestionsOriginal = [
       },
     ],
     imagem: Img2,
-    knowMore: `A cada 05 minutos de banho com ducha utilizando registro meio aberto, você gasta em média 45 litros.`,
+    knowMore: `A cada 05 minutos de banho com ducha utilizando registro meio aberto, você gasta em média 45 litros\n`,
   },
   {
     id: 3,
     question:
-      'De acordo com a SABESP ao escovar os dentes com a torneira não muito aberta durante 05 minutos, você gasta em média 12 litros de água. Porém, se você molhar a escova, fechar a torneira enquanto escova os dentes, e ainda enxaguar a boca com um copo de água, poderá reduzir seu gasto de água em aproximadamente 90%. Ao realizar essas ações conscientes você economiza aproximadamente quantos litros de água ao escovar os dentes?',
+      'De acordo com a SABESP ao escovar os dentes com a torneira não muito aberta durante 05 minutos, você gasta em média 12 litros de água\nPorém, se você molhar a escova, fechar a torneira enquanto escova os dentes, e ainda enxaguar a boca com um copo de água, poderá reduzir seu gasto de água em aproximadamente 90%\nAo realizar essas ações conscientes você economiza aproximadamente quantos litros de água ao escovar os dentes?',
     options: [
       {
         text: '08 litros',
@@ -95,7 +95,7 @@ export const QuestionsOriginal = [
   {
     id: 4,
     question:
-      'De acordo com a SABESP ao lavar o rosto, fazer skin care ou se barbear durante 5 minutos, gastam-se 12 litros de água. Reduzindo o tempo da torneira aberta o consumo cai para 2 a 3 litros, e o volume economizado é o suficiente para manter-se hidratado por pelo menos 5 dias. Diante do exposto, quantos litros de água você pode economizar ao realizar estas atividades com consumo consciente?',
+      'De acordo com a SABESP ao lavar o rosto, fazer skin care ou se barbear durante 5 minutos, gastam-se 12 litros de água\nReduzindo o tempo da torneira aberta o consumo cai para 2 a 3 litros, e o volume economizado é o suficiente para manter-se hidratado por pelo menos 5 dias\nDiante do exposto, quantos litros de água você pode economizar ao realizar estas atividades com consumo consciente?',
     options: [
       {
         text: '02 a 03 litros',
@@ -119,7 +119,7 @@ export const QuestionsOriginal = [
   {
     id: 5,
     question:
-      'Ao lavar o carro ou a calçada com mangueira durante 15 minutos são gastos 279 litros de água. Este é um hábito comum e que traz grandes prejuízos. O ideal é reduzir este consumo para apenas 40 litros. Calcule o desperdício de água ao lavar o carro ou calçada durante 15 minutos quando você não segue estas instruções de consumo consciente:',
+      'Ao lavar o carro ou a calçada com mangueira durante 15 minutos são gastos 279 litros de água\nEste é um hábito comum e que traz grandes prejuízos\nO ideal é reduzir este consumo para apenas 40 litros\nCalcule o desperdício de água ao lavar o carro ou calçada durante 15 minutos quando você não segue estas instruções de consumo consciente:',
     options: [
       {
         text: '230 litros',
@@ -139,18 +139,18 @@ export const QuestionsOriginal = [
       },
     ],
     imagem: Img5,
-    knowMore: `Para calcular o desperdício você precisa deduzir a diferença do valor gasto pelo valor da economia.
+    knowMore: `Para calcular o desperdício você precisa deduzir a diferença do valor gasto pelo valor da economia\n
       Para reduzir este consumo para 40 litros, você deve:
-      Adotar o hábito de usar a vassoura, e não a mangueira, para limpar a calçada e o quintal da sua casa.
-      Se houver uma sujeira localizada, usar a técnica do pano umedecido com água de enxágue da roupa ou da louça.
-      Não lavar o carro durante a estiagem (época do ano em que chove menos). Na época das chuvas, se necessário, usar um balde e um pano para lavar o carro ao invés de uma mangueira.
-      Lavar o carro somente uma vez por mês com balde.
+      Adotar o hábito de usar a vassoura, e não a mangueira, para limpar a calçada e o quintal da sua casa\n
+      Se houver uma sujeira localizada, usar a técnica do pano umedecido com água de enxágue da roupa ou da louça\n
+      Não lavar o carro durante a estiagem (época do ano em que chove menos)\nNa época das chuvas, se necessário, usar um balde e um pano para lavar o carro ao invés de uma mangueira\n
+      Lavar o carro somente uma vez por mês com balde\n
       `,
   },
   {
     id: 6,
     question:
-      'A torneira da pia da cozinha, quando aberta, gasta em média 15 litros de água por minuto. Considerando que num determinado dia você já usou 140 litros de água e ainda precisa lavar as louças. Quantos minutos a torneira pode ficar aberta, initerruptamente, para lavar a louça sem que ultrapasse 200 litros de água neste dia?',
+      'A torneira da pia da cozinha, quando aberta, gasta em média 15 litros de água por minuto\nConsiderando que num determinado dia você já usou 140 litros de água e ainda precisa lavar as louças\nQuantos minutos a torneira pode ficar aberta, initerruptamente, para lavar a louça sem que ultrapasse 200 litros de água neste dia?',
     options: [
       {
         text: '4 minutos',
@@ -174,7 +174,7 @@ export const QuestionsOriginal = [
   {
     id: 7,
     question:
-      'Segundo dados da SABESP, numa casa, lavando louça com a torneira meio aberta, em 15 minutos são utilizados 117 litros de água. O ideal é utilizar apenas 20 litros. Consulte o SAIBA MAIS e descubra formas de reduzir este consumo. Ao seguir as instruções do SAIBA MAIS, você economizará quantos litros de água?',
+      'Segundo dados da SABESP, numa casa, lavando louça com a torneira meio aberta, em 15 minutos são utilizados 117 litros de água\nO ideal é utilizar apenas 20 litros\nConsulte o SAIBA MAIS e descubra formas de reduzir este consumo\nAo seguir as instruções do SAIBA MAIS, você economizará quantos litros de água?',
     options: [
       {
         text: '97 litros',
@@ -195,15 +195,15 @@ export const QuestionsOriginal = [
     ],
     imagem: Img7,
     knowMore: `Segue abaixo descritas algumas alternativas para reduzir esse consumo:
-      Antes de lavar a louça, limpar os restos de comida dos pratos e panelas primeiramente com papel e, se necessário, com esponja e sabão e somente depois, deve-se abrir a torneira para molhá-los.
-      Em seguida, ensaboa-se tudo o que tem que ser lavado e, então, abre-se a torneira novamente para novo enxague. 
-      Para lavar copos, deve-se ensaboá-los com esponja e depois enxaguá-los, procurando sempre evitar o desperdício de água. 
+      Antes de lavar a louça, limpar os restos de comida dos pratos e panelas primeiramente com papel e, se necessário, com esponja e sabão e somente depois, deve-se abrir a torneira para molhá-los\n
+      Em seguida, ensaboa-se tudo o que tem que ser lavado e, então, abre-se a torneira novamente para novo enxague\n
+      Para lavar copos, deve-se ensaboá-los com esponja e depois enxaguá-los, procurando sempre evitar o desperdício de água\n
       `,
   },
   {
     id: 8,
     question:
-      'De acordo com a SABESP, uma lavadora de roupas com capacidade de 5 quilos gasta 135 litros por lavagem. O ideal é usá-la somente com a capacidade total e utilizá-la cheia e ligá-la no máximo três vezes por semana, para assim reduzir o consumo durante a lavagem, e aproveitar a água do enxágue para lavar o quintal. Uma lavadora de 12.5 kilos gasta quantos litros de água aproximadamente utilizando sua capacidade total?',
+      'De acordo com a SABESP, uma lavadora de roupas com capacidade de 5 quilos gasta 135 litros por lavagem\nO ideal é usá-la somente com a capacidade total e utilizá-la cheia e ligá-la no máximo três vezes por semana, para assim reduzir o consumo durante a lavagem, e aproveitar a água do enxágue para lavar o quintal\nUma lavadora de 12\n5 kilos gasta quantos litros de água aproximadamente utilizando sua capacidade total?',
     options: [
       {
         text: '405 litros',
@@ -223,14 +223,14 @@ export const QuestionsOriginal = [
       },
     ],
     imagem: Img8,
-    knowMore: `A cada 05 quilos de capacidade a máquina gasta 135 litros por lavagem.
-      Para calcular o gasto hídrico, basta dividir a capacidade da sua lavadora por 05 e multiplicar o valor por 135. E 2,5 kilos gasta a metade de 135.
+    knowMore: `A cada 05 quilos de capacidade a máquina gasta 135 litros por lavagem\n
+      Para calcular o gasto hídrico, basta dividir a capacidade da sua lavadora por 05 e multiplicar o valor por 135\nE 2,5 kilos gasta a metade de 135\n
       `,
   },
   {
     id: 9,
     question:
-      'A reutilização da água é importante para conservar os recursos naturais e evitar o desperdício. Sendo assim, o que é reutilização da água?',
+      'A reutilização da água é importante para conservar os recursos naturais e evitar o desperdício\nSendo assim, o que é reutilização da água?',
     options: [
       {
         text: 'É o processo de economizar água',
@@ -347,7 +347,7 @@ export const QuestionsOriginal = [
   {
     id: 14,
     question:
-      'Para que a água seja considerada segura para o consumo humano precisa estar dentro de certos limites de potabilidade. O que significa nível de coliformes fecais na água?',
+      'Para que a água seja considerada segura para o consumo humano precisa estar dentro de certos limites de potabilidade\nO que significa nível de coliformes fecais na água?',
     options: [
       {
         text: 'Presença de microrganismos patogênicos na água',
@@ -371,7 +371,7 @@ export const QuestionsOriginal = [
   {
     id: 15,
     question:
-      'Certo dia passou no noticiário da TV que o rio Tietê, em São Paulo, estava poluído. Como é a água de um rio poluído?',
+      'Certo dia passou no noticiário da TV que o rio Tietê, em São Paulo, estava poluído\nComo é a água de um rio poluído?',
     options: [
       {
         text: 'Água limpa e cristalina',
@@ -418,7 +418,7 @@ export const QuestionsOriginal = [
   {
     id: 17,
     question:
-      'Quando a água de um rio está poluída pode trazer muitas consequências para quem usufrui direto e indiretamente. Dito isso, o que acontece com a saúde de quem ingere a água poluída?',
+      'Quando a água de um rio está poluída pode trazer muitas consequências para quem usufrui direto e indiretamente\nDito isso, o que acontece com a saúde de quem ingere a água poluída?',
     options: [
       {
         text: 'Ela aumenta a imunidade',
